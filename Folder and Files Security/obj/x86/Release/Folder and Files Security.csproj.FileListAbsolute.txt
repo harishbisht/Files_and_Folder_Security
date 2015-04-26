@@ -1,0 +1,6 @@
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Release\Interop.mscoree.dll
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Release\Folder and Files Security.csproj.ResolveComReference.cache
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Release\Folder_and_Files_Security.Form1.resources
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Release\Folder_and_Files_Security.Properties.Resources.resources
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Release\Folder_and_Files_Security.test.resources
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Release\Folder and Files Security.csproj.GenerateResource.Cache

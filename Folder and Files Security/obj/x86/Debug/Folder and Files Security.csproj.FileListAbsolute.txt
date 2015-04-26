@@ -1,0 +1,15 @@
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\bin\Debug\Folder and Files Security.exe
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\bin\Debug\Folder and Files Security.pdb
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder_and_Files_Security.Form1.resources
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder_and_Files_Security.Properties.Resources.resources
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder and Files Security.csproj.GenerateResource.Cache
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder and Files Security.exe
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder and Files Security.pdb
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder and Files Security.csprojResolveAssemblyReference.cache
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder_and_Files_Security.test.resources
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Interop.mscoree.dll
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder and Files Security.csproj.ResolveComReference.cache
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\bin\Debug\Folder and Files Security.exe.manifest
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\bin\Debug\Folder and Files Security.application
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder and Files Security.exe.manifest
+E:\DESKTOP\new project (encoding and hiding folders)\project\Folder and Files Security\Folder and Files Security\obj\x86\Debug\Folder and Files Security.application
